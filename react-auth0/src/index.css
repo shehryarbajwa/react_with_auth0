@@ -29,7 +29,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-image: linear-gradient(to bottom right, #f0582a, #eb0685);
+  background: #f33131be
 }
 
 nav li {
